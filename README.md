@@ -9,6 +9,6 @@ Step 4: Finally, I clicked on "Clone Repository". This downloaded a copy of the 
 # About Me
 ## My Interests
   - I have a couple of interests. Starting wih my hobbies, I like to read and draw. When it comes to academic interests, I like learning about information technology (IT), specifically Cybersecurity.
-##Websites I Recommend
+## Websites I Recommend
   - [Pinterest](https://www.pinterest.com/) - Pinterest provides a plethora of references for artists.
   - [YouTube](https://www.youtube.com/) - Not only is YouTube a place where I watch videos from my favorite people, it also offers informational videos on many topics.
